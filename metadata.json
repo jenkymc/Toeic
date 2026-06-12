@@ -1,0 +1,6 @@
+{
+  "name": "Trắc Nghiệm Thông Minh AI",
+  "description": "Nền tảng thi thử trực tuyến, tải file tài liệu tự động chấm chữa bằng AI, phân tích điểm số trực quan và đề xuất lộ trình ôn tập cá nhân hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
